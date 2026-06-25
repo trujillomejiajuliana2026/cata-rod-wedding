@@ -502,9 +502,7 @@ export default function WeddingInvitation() {
                 </div>
                 <a
                   className="rsvp-btn"
-                  href="https://wa.me/61438021337?text=Hi%2C%20thanks%20for%20the%20invite!%20I'd%20like%20to%20confirm%20my%20assistance."
-                  target="_blank"
-                  rel="noopener noreferrer"
+                  href="sms:+61438021337?body=Hi%2C%20thanks%20for%20the%20invite!%20I'd%20like%20to%20confirm%20my%20assistance."
                   style={{textDecoration:'none',display:'inline-block'}}
                 >Confirm Attendance</a>
               </div>
